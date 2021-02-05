@@ -54,7 +54,7 @@ executive David Locke spoke of the "untapped cognitive surplus that exists in th
 crowdsourcing could be used to enhance public participation in government. In addition to making government more participatory, open records and open data have the 
 potential to make government more transparent and less corrupt.
 
-##Users[edit]
+## Users[edit]
 
 With the introduction of Web 2.0 came the possibility of content consumers being more involved in the generation and sharing of content. Also with the coming of 
 digital media and the ease of access at home, the amount of user generated content has increased as well as the age and class range. Eight percent of Internet users 
@@ -79,7 +79,7 @@ cheaper and more accessible as well, making content creation far easier for ever
 through online platforms like YouTube, while others use it to connect to friends through social networking sites.[30] Either way, this demographic is becoming more 
 than just observers, they are creators as well.
 
-On-boarding:
+## On-boarding:
 
 Content creators can join the DTM to publish content in a few ways:
 1.	Use a partner service such as https://www.creativepassport.net/.  
