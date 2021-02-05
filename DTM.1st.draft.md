@@ -1,9 +1,9 @@
 1st Draft 
-## Distributed Trustless Marketplace (DTM)
+# Distributed Trustless Marketplace (DTM)
 
-# Decentralized Autonomous Organization (DAO)
+## Decentralized Autonomous Organization (DAO)
 
-# Abstract:
+## Abstract:
 
 1.	Content provider, (BIP 44 address), and consumer identity, (BIP 44 address), hosted on the RVN BC through the use of Unique tokens.  
 
@@ -28,7 +28,7 @@ set of APIs that query the network and BC.  Consumers could browsee and purchase
 a token, containing metadata, with the encryption keys for the files purchased, is sent to the purchasing address. Any 3rd party software could 
 display the content of the file once it is un-encrypted.
 
-# Function:
+## Function:
 
 1.	IPFS Hosting Network: The entire network would be encrypted based on systems developed by Ranveland.org.  Network could/would be supported 
 by each content provider running a RPi4 with RavenlandOS. This program will be discussed in more detail later under the marketing section.  
@@ -106,7 +106,7 @@ The RVN BC has the functionality through the use of the “Tag” and “Restric
 to determine the exact methodology used to facilitate these functions.  There are also may be a need to “Blacklist” a file from the entire 
 community.  The best mythology has yet to be determined but the use of unique assets could be one solution.
 
-# Payments
+## Payments
 
 Consumer would be able to make purchases using fiat or crypto currency.  Funds used in purchase would be converted to RVN (Changely?) and sent to 
 appropriate parties for instant payments when available.  60% would go to the CP address, 30% would go to the company/host of the system and 10% 
@@ -120,13 +120,13 @@ payment such as in the case of an Agent using a Backoffice company.  This also a
 A 3rd party like Changely could be used to convert to RVN and for the Content creator and Agent to convert back to fiat or other coin.  Also the use 
 of crypto to VISA/MC might be employed by CPs and Agents
 
-# Payment Flow
+## Payment Flow
 
 Consumers would browse content and select items for purchase.  Items would be added to cart and all payment information is collected at time of checkout.  
 This can be done by any 3rd party app or web site that is able to scan the network and access the APIs of the Client.  The host would create a web site 
 and apps for using the market place but would also promote the marketing of the content by 3rd party sellers.  
 
-# Upon checkout:
+## Upon checkout:
 1.	All necessary information and RVN for purchase is sent to Client via APIs from GUI 
 2.	Client generates JSON file “receipt”, and posts file to IPFS
 3.	Client broadcasts the receipt using the RVN message function by sending the unique users token back to the sending address
@@ -138,7 +138,7 @@ and apps for using the market place but would also promote the marketing of the 
 
 ((Will transaction be fast enough?  Will Lighting network need to be employed? Another way to “Bond” purchase transactions for instant delivery of content?))
 
-# Content providers:
+## Content providers:
 
 A web site for content provider to upload files and all pertinent information about content for sale would be needed.  Write access would be granted 
 via human interaction from the host after all KYC information was collected.  Using the message function of RVN an IPFS file could be written to the RVN BC 
@@ -151,28 +151,28 @@ sale, such as song or book rights.
 4.	Marketing data, icons, file names, thumb nails, samples, cover pictures….. hosted on public IPFS
 5.	Encrypted content for sale hosted on encrypted private IPFS
 
-# Marketing:
+## Marketing:
 
 Music: Give the content provider a way to generate a list of codes that would allow a user to get a free RVN unique consumer token to access the network.  
 The current price of 5 RVN for a unique token is a barrier to adoption and will be address in a later RIP.  With this list musicians could generate flyers 
 to give out at their events so that fans and join the marketplace and purchase content.  CPs could also generate discount codes for reduced or free songs.  
 Artist would still have to pay host fee.  RVN redemption codes?  Samples hosted on the public IPFS.
 
-# Development:
+## Development:
 
-# Agent/Agency:
+## Agent/Agency:
 
 Key to the adoption of the marketplace by CPs will be the “Agent”.  The Agent can be any business entity that registers to sell the services provided by the DTM.  
 The Agent would be responsible for marketing, signing up and providing customer service to CPs.  Agents would receive 10% of the gross revenue for each sale a 
 CP made, as commission. Agents would be separate companies and subject to free market forces and the laws of the country they are lawfully bound by.
 
-# Backoffice Services:
+## Backoffice Services:
 
 A separate company, to provide technical services to Agents, for a % of the Agent’s commission.  This company would handle the hands on technical aspects of 
 registering and posting services for the CP from the information collected by Agents.  Agents would not have to use this service but it is a common factor 
 in other commission based sales industries and would greatly increase the speed at which new Agents could be on boarded and producing.
 
-# Content Provider (CP) sign up:
+## Content Provider (CP) sign up:
 
 Agents will market to CP.  In order to sign up a new CP, KYC information must be collected and entered into a database.  This is very important for copyright 
 enforcement and Agent will bear some responsibility in the validation of this information.  This can be done via a web site but must await human approval 
