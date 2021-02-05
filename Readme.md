@@ -7,4 +7,4 @@ DTM is is an autonomous, non-discriminatory, global online marketplace. The DTM 
 There are neither corporate ententes nor shareholders to pay. The majority of each sale goes directly to the content producer instantly. Creators retain full ownership 
 and are assisted to copyright their material.
 
-It is the intention of this project to fundamentally change the global online economey!
+It is the intention of this project to fundamentally change the global online economy!
