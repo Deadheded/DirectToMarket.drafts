@@ -32,8 +32,8 @@ display the content of the file once it is un-encrypted.
 
 ## Function:
 
-1.	IPFS Hosting Network: The entire network would be encrypted based on systems developed by Ranveland.org.  Network could/would be supported 
-by each content provider running a RPi4 with RavenlandOS. This program will be discussed in more detail later under the marketing section.  
+1.	IPFS Hosting Network: (IPFS encrypted container?)  Network could/would be supported 
+by each content provider. This program will be discussed in more detail later under the marketing section.  
 Access would be limited to known, tagged addresses.  This would allow the function of read/write limitations and also limit file exposure encase 
 single file encryption keys were stolen. General management of the network could be almost entirely automated, preferably done with a dapp, 
 “Gatekeeper”, run on the same IPFS network that it is managing.  
