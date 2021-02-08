@@ -1,5 +1,7 @@
 1st Draft 
-# Distributed Trustless Marketplace (DTM)
+# Direct To Market(DTM)
+
+## A Distributed Trustless Marketplace 
 
 ## Decentralized Autonomous Organization (DAO)
 
