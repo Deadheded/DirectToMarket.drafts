@@ -1,0 +1,57 @@
+{
+	"video_standard": {
+		"metadata": {
+			"content_data": {
+				"icon": "<base 64 encoded png (64x64 is recommended)>",
+				"Title": "<full video title>",
+				"description": "<video description>",
+				"creation_date": "<1, 1, 1970>",
+				"moniterize":"<true/false>",
+				"restrictions": "<all ages, mature only, viewer advise, violence, gore>",
+				"keywords": "<Baseball Cards, Coins, Book Of The Month Club, crypto, BTC, Kids>"
+			},
+			"admin_data": {
+				"issuer": "<issuer>",
+				"channel":"<All Raven News>",
+				"website": "<website>",
+				"contact_name": "<contact name>",
+				"website_url": "<website>",
+				"contact_email": "<contact email>",
+				"address": "<physical address>",
+				"token_name":"<RIP 11 asset name>"
+			},
+			"other_data": {
+				"<key1>": "<value>",
+				"<key2>": "<value>",
+				"<key3>": "<value>"
+			},
+			"encryption": {
+				"algorithm": "<e.g., AES, TripleSec>",
+				"attachments": [
+					"<IPFS hash encrypted attachment 1 created per. RIP11>",
+					"<IPFS hash for encrypted attachment 2 created per. RIP11>",
+					"<IPFS hash for encrypted attachment n created per. RIP11>"
+				],
+				"recipients": {
+					"<recipient 1 encryption address>": "<PGP encrypted symmetric key of recipient 1 per. RIP11>",
+					"<recipient 2 encryption address>": "<PGP encrypted symmetric key of recipient 2 per. RIP11>",
+					"<recipient n encryption address>": "<PGP encrypted symmetric key of recipient n per. RIP11>"
+				}
+			},
+			"ipfs_attachments": [
+					"<IPFS hash for unencrypted attachment 1>",
+					"<IPFS hash for unencrypted attachment 2>",
+					"<IPFS hash for unencrypted attachment n>"
+			],
+			"url_links": [
+					"<url link 1>",
+					"<url link 2>",
+					"<url link n>"
+			]
+		},
+		"metadata_signature": {
+			"signature_hash": "<SHA256 hash of the immediately preceding metadata JSON object {...}>",
+			"signature": "<Ravencoin signed signature_hash>"
+		}
+	}
+}
