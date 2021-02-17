@@ -2,7 +2,7 @@
 
 ==Abstract==
 
-Use standardized json descriptor files to allow 3rd parties to properly parse data sets published to IPFS.  Please review 
+Use standardized json descriptor files to parse data sets published to IPFS.  Please review 
 [https://github.com/MangoFarmAssets/rips/blob/master/rip-0011.mediawiki Mangofarmassets RIP 11 ~ RIP 14] before continuing. 
 
 ==Motivation==
