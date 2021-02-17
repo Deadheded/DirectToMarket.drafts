@@ -15,15 +15,15 @@ Using the methodology out lined in [https://github.com/MangoFarmAssets/rips/blob
 anyone is able to post digital content to IPFS and share that content using RVN asset transactions.  This content data set may contain multiple 
 files and descriptors, both encrypted and readable.  Depending on the type of content being published to IPFS the follow “types” of json files are proposed:
 
-===[https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Video.json.Standard.mediawiki Video Standard]===
+[https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Video.json.Standard.mediawiki Video Standard]
 
-===[https://github.com/Deadheded/DirectToMarket.drafts/tree-save/main/Video.series.json.Standard.mediawiki Video Series Standard]===
+[https://github.com/Deadheded/DirectToMarket.drafts/tree-save/main/Video.series.json.Standard.mediawiki Video Series Standard]
 
 Music Standard
 
-===[ https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Ebook.json.Standard.mediawiki EBook Standard]===
+[ https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Ebook.json.Standard.mediawiki EBook Standard]
 
-===[ https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Movie.json.Standard.mediawiki Movie Standard]===
+[ https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Movie.json.Standard.mediawiki Movie Standard]
 
 Podcast Standard
 
