@@ -16,7 +16,8 @@ anyone is able to post digital content to IPFS and share that content using RVN 
 files and descriptors, both encrypted and readable.  Depending on the type of content being published to IPFS the follow “types” of json files are proposed:
 
 ===[https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Video.json.Standard.mediawiki Video Standard]===
-Video Series Standard
+
+===[https://github.com/Deadheded/DirectToMarket.drafts/tree-save/main/Video.series.json.Standard.mediawiki Video Series Standard]===
 
 Music Standard
 
