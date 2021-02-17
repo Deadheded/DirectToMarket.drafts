@@ -1,0 +1,37 @@
+= Proposed standards for content publishing using RVN BC and IPFS =
+
+==Abstract==
+
+Use standardized json descriptor files to allow 3rd parties to properly parse data sets published to IPFS.  Please review 
+[https://github.com/MangoFarmAssets/rips/blob/master/rip-0011.mediawiki Mangofarmassets RIP 11 ~ RIP 14] before continuing. 
+
+==Motivation==
+
+By having a standard format by which content creators can publish content it will allow any 3rd party to properly display and market said content.  
+
+==Methodology==
+
+Using the methodology out lined in [https://github.com/MangoFarmAssets/rips/blob/master/rip-0011.mediawiki Mangofarmassets RIP 11 ~ RIP 14] 
+anyone is able to post digital content to IPFS and share that content using RVN asset transactions.  This content data set may contain multiple 
+files and descriptors, both encrypted and readable.  Depending on the type of content being published to IPFS the follow “types” of json files are proposed:
+
+===[https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Video.json.Standard.mediawiki Video Standard]===
+Video Series Standard
+
+Music Standard
+
+===[ https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Ebook.json.Standard.mediawiki EBook Standard]===
+
+===[ https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Movie.json.Standard.mediawiki Movie Standard]===
+
+Podcast Standard
+
+Software Application Standard
+
+Subscription Standards
+
+Parking Lot Ticket Standard
+
+Theater Ticket Standard
+
+Generic Standard
