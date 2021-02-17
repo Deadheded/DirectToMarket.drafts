@@ -27,6 +27,10 @@ Music Standard
 
 Podcast Standard
 
+Message Standard
+
+Message Board Standard
+
 Software Application Standard
 
 Subscription Standards
