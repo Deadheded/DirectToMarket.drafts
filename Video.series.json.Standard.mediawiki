@@ -1,4 +1,4 @@
-<par>
+<pre>
 {
 	"video_series_standard": {
 		"metadata": {
@@ -87,4 +87,4 @@
 		}
 	}
 }
-</par>
+</pre>
