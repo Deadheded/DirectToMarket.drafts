@@ -1,0 +1,54 @@
+{
+   "RVNFT_standard":{
+      "metadata":{
+         "content_data":{
+            "icon":"<base 64 encoded png (64x64 is recommended)>",
+            "Title":"<Title>",
+            "Edition_Size":"<pixl>",
+            "Description":"<about the NFT>",
+            "Asset_ID":"<true/false>",
+            "NFT_hash":"<IPFS hash NFT",
+            "COA_hash":"<IPFS hash of COA>"
+         },
+         "admin_data":{
+            "author_asset":"<unique asset tied to address with IPFS hash>",
+            "author_address":"<address publishing data set>",
+            "author_icon":"<author’s choosing in author asset IPFS file>",
+            "author_picture":"<picture associated with account in author asset IPFS file >",
+            "author_handle":"<deadheded John Q. Public ect…>",
+            "author_tagline":"<cipher punks rule in author asset IPFS file default or can be updated in form used to publish>",
+            "description":"<say as much or as little about publisher  in author asset IPFS file default or can be updated in form used to publish >",
+            "channel":"<All Raven News>",
+            "verified":"<true/false>",
+            "verifying_entity":"<Other party verification service>",
+            "verifying_entity_url":"<website>",
+            "verification_crendentials":"<web link>",
+            "website":"<website>",
+            "contact_name":"<contact name>",
+            "website_url":"<website>",
+            "contact_email":"<contact email>",
+            "brave_verified":"<true/false>",
+            "BAT_address":"<BAT address for tipping>"
+         },
+         "other_data":{
+            "<key1>":"<value>",
+            "<key2>":"<value>",
+            "<key3>":"<value>"
+         },
+         "ipfs_attachments":[
+            "<IPFS hash for unencrypted attachment 1>",
+            "<IPFS hash for unencrypted attachment 2>",
+            "<IPFS hash for unencrypted attachment n>"
+         ],
+         "url_links":[
+            "<url link 1>",
+            "<url link 2>",
+            "<url link n>"
+         ]
+      },
+      "metadata_signature":{
+         "signature_hash":"<SHA256 hash of the immediately preceding metadata JSON object {...}>",
+         "signature":"<Ravencoin signed signature_hash>"
+      }
+   }
+}
