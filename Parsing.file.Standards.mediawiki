@@ -19,6 +19,8 @@ files and descriptors, both encrypted and readable.  Depending on the type of co
 
 [https://github.com/Deadheded/DirectToMarket.drafts/tree-save/main/Video.series.json.Standard.mediawiki Video Series Standard]
 
+[https://github.com/Deadheded/DirectToMarket.drafts/blob/main/NFT.Standard.mediawiki NFT Standard]
+
 Music Standard
 
 [ https://github.com/Deadheded/DirectToMarket.drafts/blob/main/Ebook.json.Standard.mediawiki EBook Standard]
