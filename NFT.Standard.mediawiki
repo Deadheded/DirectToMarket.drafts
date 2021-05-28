@@ -7,7 +7,7 @@
             "Edition_Size":"<pixl>",
             "Description":"<about the NFT>",
             "Asset_ID":"<true/false>",
-            "NFT_hash":"<IPFS hash NFT",
+            "NFT_hash":"<IPFS hash NFT>",
             "COA_hash":"<IPFS hash of COA>"
          },
          "admin_data":{
