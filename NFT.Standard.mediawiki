@@ -11,12 +11,12 @@
             "COA_hash":"<IPFS hash of COA>"
          },
          "admin_data":{
-            "author_asset":"<unique asset tied to address with IPFS hash>",
-            "author_address":"<address publishing data set>",
-            "author_icon":"<author’s choosing in author asset IPFS file>",
-            "author_picture":"<picture associated with account in author asset IPFS file >",
-            "author_handle":"<deadheded John Q. Public ect…>",
-            "author_tagline":"<cipher punks rule in author asset IPFS file default or can be updated in form used to publish>",
+            "creator_asset":"<unique asset tied to address with IPFS hash>",
+            "creator_address":"<address publishing data set>",
+            "creator_icon":"<author’s choosing in author asset IPFS file>",
+            "creator_picture":"<picture associated with account in author asset IPFS file >",
+            "creator_handle":"<deadheded John Q. Public ect…>",
+            "creator_tagline":"<cipher punks rule in author asset IPFS file default or can be updated in form used to publish>",
             "description":"<say as much or as little about publisher  in author asset IPFS file default or can be updated in form used to publish >",
             "channel":"<All Raven News>",
             "verified":"<true/false>",
