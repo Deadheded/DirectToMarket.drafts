@@ -4,6 +4,7 @@
          "content_data":{
             "icon":"<base 64 encoded png (64x64 is recommended)>",
             "Title":"<Title>",
+            "Artist": "ArtistName",
             "Edition_Size":"<pixl>",
             "Description":"<about the NFT>",
             "Asset_ID":"<true/false>",
@@ -11,7 +12,6 @@
             "COA_hash":"<IPFS hash of COA>"
          },
          "admin_data":{
-            "creator_name":"<artist name>",
             "creator_asset":"<unique asset tied to address with IPFS hash>",
             "creator_address":"<address publishing data set>",
             "creator_icon":"<author’s choosing in author asset IPFS file>",
