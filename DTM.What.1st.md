@@ -128,9 +128,8 @@ and all the financial transactions.  In other words, a full record of all transa
 How do I get my money?
 
 As we stated payments are almost instant.  Your payments will be to your wallet on your RPi4 in RVN or RavenCoin.  From there we give you a number of options.  
-You can use a service like Changely to exchange your RVN into any other major crypto currency like Bitcoin or ETH.  It can be sent to an exchange and sold 
-for US dollars, won, yet, euros or any fiat that an exchange supports.  Exchange your RVN for gold or silver.  There are also several companies that will 
-allow you to load your RVN directly to a credit card for use where ever Visa or MC are accepted
+You can use a service like NowPayments.io to exchange your RVN into any other major crypto currency or fiat currency.  Exchange your RVN for gold or silver.  
+There are also several companies that will allow you to load your RVN directly to a credit card for use where ever Visa or MC are accepted
 
 What does the “Agent” do?
 
