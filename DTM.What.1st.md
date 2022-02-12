@@ -116,7 +116,7 @@ What if I sell the rights to my content?
 
 Initially payment tokens are issued associated with your unique token.  That means anything you post goes to the same holders of your payment tokens.  
 Payment tokens can be created for specific content or reissued for the content provider but there is an add cost of 100 RVN.  Payment tokens can be 
-sent to any KYC RVN wallet and will receive payment proportional to the share of token held in that address for any sale.  10% of any payment tokens 
+sent to any KYC RVN wallet and will receive payment proportional to the share of token held in that address for any sale.  ?% of any payment tokens 
 will always be sent to the host or Marketplace.  This is what funds the running and maintaining of the Marketplace
 
 How does this help me with copy right laws
