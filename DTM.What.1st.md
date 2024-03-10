@@ -1,4 +1,4 @@
-1st draft
+1st draft        Decentrilized Trustless Marketplace, DTM, Direct To Market
 
 Right at the end of last century a good friend of Eddie Van Halen said to me that Eddie once told him that he made $1.25 an album sale.
 
