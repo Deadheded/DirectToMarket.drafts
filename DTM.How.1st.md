@@ -11,10 +11,7 @@ accessing files, websites, applications and data. Please follow the links to lea
 why it is vital to the function and ideology of the Marketplace.
 https://docs.ipfs.io/introduction/overview/ https://docs.ipfs.io/
 
-In addition to the open IPFS network, the Marketplace will also employ an encrypted IPFS network
-developed by https://www.ravenland.org. Ravenland currently provides a number of IPFS and RVN
-services including https://mypin.io/#/. They also have developed RavenlandOS for the RPi4, which will
-be employed for each content provider.
+In addition to the open IPFS network, the Marketplace will also employ an encrypted IPFS network.
 
 Second is the Ravencoin Block Chain, RVN. This specific BC combined with IPFS has all the underlying
 function and features needed to make the Marketplace work. The most concise article about the
